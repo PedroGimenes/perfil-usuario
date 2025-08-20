@@ -1,0 +1,20 @@
+.descricao{
+ width: 190px;
+ height: 254px;
+ border-radius: 20px;
+ background: #f5f5f5;
+ position: relative;
+ padding: 1.8rem;
+ border: 2px solid #c3c6ce;
+ transition: 0.5s ease-out;
+ overflow: visible;
+}
+
+.perfil{
+    font-size: xx-large;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+
+}
